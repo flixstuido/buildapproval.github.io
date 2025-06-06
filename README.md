@@ -1,2 +1,0 @@
-# buildapproval.github.io
-buildapproval
